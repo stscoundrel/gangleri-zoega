@@ -1,0 +1,27 @@
+{
+  "name": "gangleri-zoega",
+  "description": "Walk through Zoega's dictionary sitemap with Gangleri",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/stscoundrel/gangleri-zoega.git",
+  "author": "stscoundrel <silvennoinen.sampo@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^16.3.1",
+    "gangleri": "^1.0.1",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {}
+}
