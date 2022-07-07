@@ -1,6 +1,6 @@
 # Gangleri / Zoega's Dictionary
 
-Walk through Zoega's Dictionary sitemap with Gangleri
+Walk through [Zoega's Dictionary](https://old-icelandic.vercel.app/) sitemap with Gangleri
 
 ### Usage
 
